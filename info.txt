@@ -1,0 +1,5 @@
+A emissão de selos Vinculados é feita quando todos os atos são realizados para um único interessado. Neste caso quando ele consultar o selo estará relacionado todos os atos vinculados.
+
+Já os desvinculados. É necessário consultar cada selo individualmente
+
+geralmente utilizado quando há só um ato por selo. Ou quando a pessoa que solicitou é um despachante por exemplo, e está pedindo vários atos para pessoas distintas, e os atos não estão relacionados.
