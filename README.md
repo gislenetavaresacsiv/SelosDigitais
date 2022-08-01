@@ -4,6 +4,6 @@
 
 O selo digital é a evolução do atual selo autoadesivo (físico). O selo digital é uma modernização dos serviços públicos prestados por delegação pelas serventias extrajudiciais que utilizam os selos físicos.
 
-O objetivo não será explicar o selo digital, mas sim demonstrar o processo de emissão do mesmo dentro do Acsiv.
+O objetivo não será explicar o selo digital, mas sim demonstrar o processo de utilização do mesmo dentro do Acsiv.
 
 ![]()
