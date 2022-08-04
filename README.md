@@ -19,6 +19,12 @@ O primeiro passo *(Menu > Selos > Manutenção > Importar selos)* para iniciar o
 
 ### 2. Configurações
 
+Para iniciar as configurações é necessário abrir o arquivo *(download realizado no passo anterior)* *XML* dos selos disponibilizados pelo Tribunal de Justiça. Por meio dele, será possível pegar as devidas informações:
+
+
+![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/XML.PNG)
+
+Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para configurações do sistema, serão necessárias apenas: *CodigoComarca e CodigoCartorio*.
 
 ![configuracoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/CONFIGURACOES.PNG)
 
