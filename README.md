@@ -66,6 +66,11 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ### 6. Modelos
 
+O Modelos é utilizado para configurar os modelos de etiquetas que serão utilizados pelo cartório. *Esse módulo será mais utilizado pelo suporte técnico.*
+
+
+![modelos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MODELOS/MODELOS.PNG)
+
 ### 7. Relatórios
 
 
