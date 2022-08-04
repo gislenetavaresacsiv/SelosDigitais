@@ -79,8 +79,11 @@ Para ter acesso aos relatórios *(Menu > Selos > Relatórios)*.
 
 
 ![pdf](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_PDF.PNG)
+
 ![xls](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_XLS.PNG)
+
 ![email](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIA_EMAIL.PNG)
+
 ![separador]()
 
 **R. Prestação de contas:**
