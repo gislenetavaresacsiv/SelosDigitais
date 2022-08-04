@@ -46,17 +46,17 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ![formaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/FORMA_EMISSAO.PNG) Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados* ao emitir um selo na tela de emissão de selos com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre o selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados mo item de emissão de selos).
 
-![selosparaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/AGRUPAR_SELOS_PARA_EMISSAO.PNG)
+![selosparaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/AGRUPAR_SELOS_PARA_EMISSAO.PNG) Os selos serão agrupados na emissão.
 
-![naoenviaraposemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/NAO_ENVIAR_SELOS_APOS_EMISSAO.PNG)
+![naoenviaraposemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/NAO_ENVIAR_SELOS_APOS_EMISSAO.PNG) Não envia os selos após a emissão, sendo possível enviar depois pelo *(Menu > Selos > Envio)*.
 
-![emitirsomenteatravesrecibos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EMITIR_SELOS_SOMENTE_ATRAVES_RECIBOS.PNG)
+![emitirsomenteatravesrecibos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EMITIR_SELOS_SOMENTE_ATRAVES_RECIBOS.PNG) Só é possível realizar a emissão de selos por meio de recibos, realizados pelo *(Menu > Cartório > Recibos)*.
 
-![reutilizarsomenteultimoselo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/REUTILIZAR_SOMENTE_ULTIMO_SELO_EMITIDO.PNG)
+![reutilizarsomenteultimoselo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/REUTILIZAR_SOMENTE_ULTIMO_SELO_EMITIDO.PNG) Reutiliza somente o último selo emitido.
 
-![emitiremhomologacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EMITIR_SELOS_EM_HOMOLOGACAO.PNG)
+![emitiremhomologacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EMITIR_SELOS_EM_HOMOLOGACAO.PNG) Emite selos em homologação. **Ex.:** Quando o cartório se encontra em período de selos testes.
 
-![bloquearemfdseferiados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/BLOQUEAR_EMISSAO_SELOS_AOS_FDS_FERIADOS.PNG)
+![bloquearemfdseferiados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/BLOQUEAR_EMISSAO_SELOS_AOS_FDS_FERIADOS.PNG) Bloqueia emissão de selos aos finais de semana e feriados.
 
 ### 3. Emissão
 
