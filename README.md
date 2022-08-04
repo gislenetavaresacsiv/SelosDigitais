@@ -66,13 +66,32 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ### 6. Modelos
 
-O Modelos é utilizado para configurar os modelos de etiquetas que serão utilizados pelo cartório. *Esse módulo será mais utilizado pelo suporte técnico.*
+Os Modelos é utilizado para configurar os modelos de etiquetas que serão utilizados pelo cartório. *Esse módulo será mais utilizado pelo suporte técnico.*
 
 
 ![modelos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MODELOS/MODELOS.PNG)
 
 ### 7. Relatórios
 
+Para ter acesso aos relatórios *(Menu > Selos > Relatórios)*.
+
+![relatorios](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/RELATORIOS.png)
+
+**R. Prestação de contas:**
+
+![prestacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_PRESTACAO_CONTA/PRESTACAO.PNG)
+
+**R. Selos Digitais emitidos:**
+
+![emitidos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/PRINCIPAL.PNG)
+
+**R. Selos Digitais estoque:**
+
+![estoque](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/PRINCIPAL.PNG)
+
+**R. Selos digitais utilizados:**
+
+![utilizados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/PRINCIPAL.PNG)
 
 
 
