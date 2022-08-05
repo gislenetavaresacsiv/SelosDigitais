@@ -60,7 +60,7 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ### 3. Emissão
 
-Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu > Selos > Emissão).
+Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu > Selos > Emissão)*.
 
 ![ABA_ATOS_COM_ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_COM_ATO.PNG)
 ![ABA_ATOS_BUSCA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
