@@ -10,7 +10,7 @@ O objetivo não será explicar o selo digital, mas sim demonstrar o processo de 
 ### 1. Importação
 
 
-O primeiro passo para iniciar o uso do selo digital é importar para a base de dados do sistema, os selos requisitados junto ao Tribunal de Justiça. Com o download feito no computador, vá em  *(Menu > Selos > Manutenção > Importar selos)*  clique em ![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG), localize o arquivo e clique em OK. O sistema irá importar todos os selos solicitados. 
+O primeiro passo para iniciar o uso do selo digital é importar para a base de dados do sistema, os selos requisitados junto ao Tribunal de Justiça. Com o download feito no computador, vá em  *(Menu Selos > Manutenção > Importar selos)*  clique em ![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG), localize o arquivo e clique em OK. O sistema irá importar todos os selos solicitados. 
 
  Para aquisição dos Selos de Fiscalização Digital, o notárío e registrador,deverá acessar o Portal do Tribunal de Justiça do Estado do Pará — [TJPA](https://www.tjpa.jus.br/) no link próprio para acesso ao sistema web, disponibilizado para as senventias que,dentre outras funcionalidades, disponibilizará rotina para a solicitação.
  
@@ -25,7 +25,7 @@ Para iniciar as configurações é necessário abrir o arquivo *(download realiz
 
 ![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/XML.PNG)
 
-Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para configurações do sistema, serão necessárias apenas: *CodigoComarca e CodigoCartorio*.
+Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para configurações do sistema, serão necessárias apenas: *CodigoComarca e CodigoCartorio*. Acesse o *(Menu Selos > Configurações)* para preencher as configurações.
 
 
 
@@ -48,9 +48,9 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ![selosparaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/AGRUPAR_SELOS_PARA_EMISSAO.PNG) Os selos serão agrupados na emissão.
 
-![naoenviaraposemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/NAO_ENVIAR_SELOS_APOS_EMISSAO.PNG) Não envia os selos após a emissão, sendo possível enviar depois pelo *(Menu > Selos > Envio)*.
+![naoenviaraposemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/NAO_ENVIAR_SELOS_APOS_EMISSAO.PNG) Não envia os selos após a emissão, sendo possível enviar depois pelo *(Menu Selos > Envio)*.
 
-![emitirsomenteatravesrecibos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EMITIR_SELOS_SOMENTE_ATRAVES_RECIBOS.PNG) Só é possível realizar a emissão de selos por meio de recibos, realizados pelo *(Menu > Cartório > Recibos)*.
+![emitirsomenteatravesrecibos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EMITIR_SELOS_SOMENTE_ATRAVES_RECIBOS.PNG) Só é possível realizar a emissão de selos por meio de recibos, realizados pelo *(Menu Cartório > Recibos)*.
 
 ![reutilizarsomenteultimoselo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/REUTILIZAR_SOMENTE_ULTIMO_SELO_EMITIDO.PNG) Reutiliza somente o último selo emitido.
 
@@ -60,7 +60,7 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ### 3. Emissão
 
-Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu > Selos > Emissão)*.
+Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu Selos > Emissão)*.
 
 Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado.
 
@@ -103,7 +103,7 @@ Os Modelos é utilizado para configurar os modelos de etiquetas que serão utili
 
 ### 7. Relatórios
 
-Para ter acesso aos relatórios *(Menu > Selos > Relatórios)*.
+Para ter acesso aos relatórios *(Menu Selos > Relatórios)*.
 
 
 ![relatorios](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/RELATORIOS.png)
