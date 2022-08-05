@@ -19,13 +19,13 @@ O primeiro passo para iniciar o uso do selo digital é importar para a base de d
 
 ### 2. Configurações
 
-Para iniciar as configurações é necessário abrir o arquivo *(download realizado no passo anterior)* *XML* dos selos disponibilizados pelo Tribunal de Justiça. Por meio dele, será possível visualizar as devidas informações:
+Para iniciar as configurações é necessário abrir o arquivo *(download realizado no passo anterior)* *XML* dos selos disponibilizados pelo Tribunal de Justiça. Por meio dele, será possível visualizar as informações importantes para as configurações:
 
 
 
 ![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/XML.PNG)
 
-Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para configurações do sistema, serão necessárias apenas: *CodigoComarca e CodigoCartorio*. Acesse o *(Menu Selos > Configurações)* para preencher as configurações.
+Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para configurações do sistema, serão necessárias apenas: *CodigoComarca e CodigoCartorio*. Acesse o *(Menu Selos > Configurações)* para preencher os campos.
 
 
 
@@ -44,7 +44,8 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 **Versão tabela:** Campo utilizado para colocar a versão da tabela, caso haja necessidade.
 
 
-![formaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/FORMA_EMISSAO.PNG) Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados* ao emitir um selo na tela de emissão de selos com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre o selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados mo item de emissão de selos).*
+![formaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/FORMA_EMISSAO.PNG) 
+Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados* ao emitir um selo na tela de emissão de selos com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre o selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados mo item de emissão de selos).*
 
 ![selosparaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/AGRUPAR_SELOS_PARA_EMISSAO.PNG) Os selos serão agrupados na emissão.
 
@@ -58,7 +59,7 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ![bloquearemfdseferiados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/BLOQUEAR_EMISSAO_SELOS_AOS_FDS_FERIADOS.PNG) Bloqueia emissão de selos aos finais de semana e feriados.
 
-Ao finalizar a importação e configuração é importante configurar os atos utilizados no dia a dia do cartório. Vamos demonstrar a configuração do ato de escrituras públicas com valor declarado, pelo *(Menu Cartório > Atos > públicas com valor declarado)*.
+Ao finalizar a importação e configuração é importante configurar os atos utilizados no dia a dia do cartório. Vamos demonstrar a configuração do ato de escrituras públicas com valor declarado, pelo *(Menu Cartório > Atos)*.
 
 
 ![ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/CONFIGURACAO_ATO.PNG)
@@ -66,11 +67,16 @@ Ao finalizar a importação e configuração é importante configurar os atos ut
 Os campos necessários para as configuração são: 
 
 **a. Selegem física:** Basta marcar a opção *Desativada*.
+
 **b. Selo digital:** Selecione o modelo de etiqueta que será utilizado no ato. **Ex.:** Selo Eletrônico editável, esse modelo é possível copiar o selo e colar no documento word.
-**c. Exibir pré-definições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) o sistema apresentará o quadro a direita para preencher o selo utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
-**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página, vá até a aba selo e no campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Puública.
+
+**c. Exibir pré-definições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) o sistema apresentará o quadro a direita para preencher o selo que será utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
+
+**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página, vá até a aba selo e no campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Pública.
 
 Essas serão as informações necessárias para emissão do selo pelo *(Menu Selos > Emissão)*, as outras configurações serão utilizadas conforme necessidade do cartório.
+
+**Obs.:** *Uma fez configurado, já fica salvo, não será preciso realizar a configuração antes de praticar o ato no dia a dia.*
 
 ### 3. Emissão
 
