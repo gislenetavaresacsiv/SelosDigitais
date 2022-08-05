@@ -62,7 +62,12 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu > Selos > Emissão)*.
 
+Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado.
+
+
 ![ABA_ATOS_COM_ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_COM_ATO.PNG)
+
+
 ![ABA_ATOS_BUSCA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
 ![ABA_ATOS_VALOR_PATRIMONIAL](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_VALOR_PATRIMONIAL.PNG)
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
