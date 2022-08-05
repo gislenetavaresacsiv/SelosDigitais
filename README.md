@@ -58,6 +58,20 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ![bloquearemfdseferiados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/BLOQUEAR_EMISSAO_SELOS_AOS_FDS_FERIADOS.PNG) Bloqueia emissão de selos aos finais de semana e feriados.
 
+Ao finalizar a importação e configuração é importante configurar os atos utilizados no dia a dia do cartório. Vamos demonstrar a configuração do ato de escrituras públicas com valor declarado, pelo *(Menu Cartório > Atos > públicas com valor declarado)*.
+
+
+![ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/CONFIGURACAO_ATO.PNG)
+
+Os campos necessários para as configuração são: 
+
+**a. Selegem física:** Basta marcar a opção *Desativada*.
+**b. Selo digital:** Selecione o modelo de etiqueta que será utilizado no ato. **Ex.:** Selo Eletrônico editável, esse modelo é possível copiar o selo e colar no documento word.
+**c. Exibir pré-definições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) o sistema apresentará o quadro a direita para preencher o selo utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
+**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página, vá até a aba selo e no campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Puública.
+
+Essas serão as informações necessárias para emissão do selo pelo *(Menu Selos > Emissão)*, as outras configurações serão utilizadas conforme necessidade do cartório.
+
 ### 3. Emissão
 
 Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu Selos > Emissão)*.
@@ -67,7 +81,7 @@ Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado.
 
 ![ABA_ATOS_COM_ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_COM_ATO.PNG)
 
-Para realizar a prática do ato, basta clicar em ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG) para pesquisar o ato, conforme imagem a seguir:
+Para adicionar os atos que irão compor, clique no botão ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), no rodapé da página, e pesquise pelo ato desejado, conforme imagem a seguir:
 
 ![pesquisa_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
 
