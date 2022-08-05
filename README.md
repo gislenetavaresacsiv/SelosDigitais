@@ -75,16 +75,18 @@ Os Modelos é utilizado para configurar os modelos de etiquetas que serão utili
 
 Para ter acesso aos relatórios *(Menu > Selos > Relatórios)*.
 
+
 ![relatorios](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/RELATORIOS.png)
 
 
-![pdf](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_PDF.PNG)
 
-![xls](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_XLS.PNG)
+![pdf](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_PDF.PNG) Possível salvar o relatório em arquivo pdf.
 
-![email](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIA_EMAIL.PNG)
+![xls](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_XLS.PNG) Possibilidade de salvar o relatório em arquivo xls.
 
-![separador]()
+![email](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIA_EMAIL.PNG) É possível enviar o relatório por e-mail, em formato pdf ou xls.
+
+![separador](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/SEPARADOR_LINHAS.PNG) O separador de linhas, separa as linhas do relatório, organizando a visualização.
 
 **R. Prestação de contas:**
 
