@@ -60,9 +60,21 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ### 3. Emissão
 
+Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu > Selos > Emissão).
+
+![]()
+
+
+
 ### 4. Envio
 
+Como fizemos com a importação, recebendo os selos em nossa base de dados, o envio gera um arquivo com os dados dos selos para o Tribunal de Justiça. Esse envio deve ser realizado conforme a necessidade do cartório, são elas: *(uma vez no dia, uma vez por semana, de quinze em quinze dias ou uma vez por mês)*. Informe o intervalo de data desejado e clique em Pesquisar.
+
+Serão exibidas as listas de selos para envio.
+
 ### 5. Manutenção
+
+A manutenção de selos *(Menu Selos > Manutenção)* utilizados ou cancelados é o local onde temos uma visão detalhada dos dados contidos no selo digital.
 
 ### 6. Modelos
 
