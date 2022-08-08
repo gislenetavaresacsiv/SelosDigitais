@@ -98,7 +98,22 @@ Ao selecionar o ato, o sistema vai solicitar o preechimento do valor patrimonial
 
 ![ABA_ATOS_VALOR_PATRIMONIAL](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_VALOR_PATRIMONIAL.PNG)
 
+Vamos descrever os itens que compõem a aba atos:
 
+
+**a. Forma de emissão:**
+
+**b. Dt. recolhimento:**
+
+**Versão tabela:**
+
+**Selo retificado:**
+
+**Natureza do ato:**
+
+**Livro:**
+
+**Folha ou Ficha:**
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 ![ABA_PESSOAS_PESQUISA_PARTES](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOAS_PESQUISA_PARTES.PNG)
