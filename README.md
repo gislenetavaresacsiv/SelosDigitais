@@ -92,7 +92,7 @@ Para adicionar os atos que irão compor, clique no botão ![inserir_linha](https
 ![pesquisa_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
 
 
-Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG) 
+Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
 
 Ao selecionar o ato, o sistema vai solicitar o preechimento do valor patrimonial para localizar a tabela de emolumentos:
 
@@ -105,9 +105,9 @@ Vamos descrever os itens que compõem a aba atos:
 
 **b. Dt. recolhimento:**
 
-**Versão tabela:**
+**c. Versão tabela:**
 
-**Selo retificado:**
+**d. Selo retificado:**
 
 **Natureza do ato:**
 
