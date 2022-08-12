@@ -45,7 +45,7 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 
 ![formaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/FORMA_EMISSAO.PNG) 
-Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados* ao emitir um selo na tela de emissão de selos com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre o selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados mo item de emissão de selos).*
+Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados* ao emitir um selo na tela de emissão de selos com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre o selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados no item 3. Emissão).*
 
 ![selosparaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/AGRUPAR_SELOS_PARA_EMISSAO.PNG) Os selos serão agrupados na emissão.
 
@@ -82,7 +82,7 @@ Essas serão as informações necessárias para emissão do selo pelo *(Menu Sel
 
 Com os selos importados e configurados no sistema, o próximo passo é a emissão *(Menu Selos > Emissão)*.
 
-Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado.
+Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado *(compra e venda)*.
 
 
 ![ABA_ATOS_COM_ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_COM_ATO.PNG)
@@ -91,16 +91,42 @@ Para adicionar os atos que irão compor, clique no botão ![inserir_linha](https
 
 ![pesquisa_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
 
-Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG), com o ato selecionado, será apresentado o quadro a esquerda para preenchimento das informações que variarão de acordo com o ato selecionado. Nesse ato foi informado o *Tipo de selo, Natureza do ato, Livro e Folha ou ficha*.
 
-![ABA_ATOS_BUSCA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
+Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
+
+Ao selecionar o ato, o sistema vai solicitar o preechimento do valor patrimonial para localizar a tabela de emolumentos:
+
 ![ABA_ATOS_VALOR_PATRIMONIAL](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_VALOR_PATRIMONIAL.PNG)
+
+Vamos descrever os itens que compõem a aba atos:
+
+
+**a. Forma de emissão:**
+
+**b. Dt. recolhimento:**
+
+**c. Versão tabela:**
+
+**d. Selo retificado:**
+
+**Natureza do ato:**
+
+**Livro:**
+
+**Folha ou Ficha:**
+
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
+
 ![ABA_PESSOAS_PESQUISA_PARTES](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOAS_PESQUISA_PARTES.PNG)
+
 ![ABA_PESSOA_TIPO_DOCUMENTO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_TIPO_DOCUMENTO.png)
+
 ![ABA_PESSOA_PARTICIPACAO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_PARTICIPACAO.png)
+
 ![ABA_IMOVEIS_COM_ENDERECO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_COM_ENDERECO.PNG)
+
 ![ABA_IMOVEIS_PESQUISA_CEP](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_PESQUISA_CEP.PNG)
+
 
 
 
