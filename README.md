@@ -79,7 +79,7 @@ Os campos necessários para as configuração são:
 
 Essas serão as informações necessárias para emissão do selo pelo *(Menu Selos > Emissão)*, as outras configurações serão utilizadas conforme necessidade do cartório.
 
-**Obs.:** *Uma fez configurado, já fica salvo, não será preciso realizar a configuração antes de praticar o ato no dia a dia.*
+**Obs.:** *Uma vez configurado, já fica salvo, não será preciso realizar a configuração antes de praticar o ato no dia a dia.*
 
 ### 3. Emissão
 
@@ -97,7 +97,7 @@ Para adicionar os atos que irão compor, clique no botão ![inserir_linha](https
 
 Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
 
-Ao selecionar o ato, o sistema vai solicitar o preechimento do valor patrimonial para localizar a tabela de emolumentos:
+Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para localizar a tabela de emolumentos:
 
 ![ABA_ATOS_VALOR_PATRIMONIAL](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_VALOR_PATRIMONIAL.PNG)
 
