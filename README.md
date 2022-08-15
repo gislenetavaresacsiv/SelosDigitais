@@ -110,17 +110,31 @@ Vamos descrever os itens que compõem a aba atos:
  
  * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele slicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
 
-**b. Dt. recolhimento:**
+**b. Dt. recolhimento:** Utilizado para colocar a data de recolhimento do ato.
 
-**c. Versão tabela:** Apresenta o ano da tabela utilizada.
+**c. Versão tabela:** Apresenta o ano da tabela de atos utilizada.
 
 **d. Selo retificado:** O campo de selo retificado será utilizado quando o ato, mesmo após ser conferido, for concluído e transmitido ao Tribunal de Justiça do Estado do Pará com equívoco, seja de digitação ou conteúdo, independentemente dos procedimentos de retificação constantes da legislação própria, o responsável pela serventia utilizará o procedimento do ato retificador. O ato retificador nessa situação, consistirá em um novo ato, com um novo selo que corrige informações equivocadamente lançadas no ato que deu origem, o qual faz referência ao ato anterior, com o mesmo número de folha e livro, devendo ser informado, na retificação, o número do selo empregado no ato a ser retificado. Para desbloquear o campo, basta clicar em ![definir_selo_retificado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG), o sistema vai direcionar para a tela *(Selo digital > Manutenção)*, nessa tela, é possível selecionar o selo a ser retificado, segue exemplos:
 
-**Natureza do ato:**
+Basta pesquisar o selo a ser retificado.
 
-**Livro:**
+![pesquisa_selo_retificado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_RETIFICACAO_PESQUISA.PNG)
 
-**Folha ou Ficha:**
+Após selecionar o selo, o mesmo será apresentado no campo *Selo retificado*.
+
+![selo_retificado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_RETIFICACAO_CAMPO_PREENCHIDO.PNG)
+
+**e. Tipo de selo:** É possível selecionar o tipo de selo para ser utilizado na prática do ato. 
+
+![tipo_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/TIPO_SELO_OPCAO.png)
+
+**f. Natureza do ato:** É possível selecionar a natureza do ato.
+
+![natureza](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/NATUREZA_ATO.png)
+
+**g. Livro:** Utilizado para preencher o número do livro.
+
+**h. Folha ou Ficha:** Possível colocar a folha ou ficha do livro.
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
