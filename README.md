@@ -104,13 +104,17 @@ Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para
 Vamos descrever os itens que compõem a aba atos:
 
 
-**a. Forma de emissão:**
+**a. Forma de emissão:**     ![vinculados_desvinculados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/VINCULADOS_DESVINCULADOS.PNG)
+
+ * Vinculados: A emissão de selos vinculados é feita quando todos os atos são realizados para um único interessado. Neste caso, quando ele consultar o selo estará relacionado a todos os atos vinculados.
+ 
+ * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele slicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
 
 **b. Dt. recolhimento:**
 
-**c. Versão tabela:**
+**c. Versão tabela:** Apresenta o ano da tabela utilizada.
 
-**d. Selo retificado:**
+**d. Selo retificado:** O campo de selo retificado será utilizado quando o ato, mesmo após ser conferido, for concluído e transmitido ao Tribunal de Justiça do Estado do Pará com equívoco, seja de digitação ou conteúdo, independentemente dos procedimentos de retificação constantes da legislação própria, o responsável pela serventia utilizará o procedimento do ato retificador. O ato retificador nessa situação, consistirá em um novo ato, com um novo selo que corrige informações equivocadamente lançadas no ato que deu origem, o qual faz referência ao ato anterior, com o mesmo número de folha e livro, devendo ser informado, na retificação, o número do selo empregado no ato a ser retificado. Para desbloquear o campo, basta clicar em ![definir_selo_retificado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG), ao desbloquear o campo, será possível realizar a retificação.  
 
 **Natureza do ato:**
 
