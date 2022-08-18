@@ -147,7 +147,7 @@ Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emit
 
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
 
-Em algumas situações é preciso gerar atos com data retroativa, clique no botão Desbloquear data da prática do ato para que o campo seja liberado e a data possa ser modificada. Vale lembrar que a data da emissão será sempre a do momento da geração do selo digital.
+
 
 
 
@@ -162,6 +162,8 @@ Em algumas situações é preciso gerar atos com data retroativa, clique no bot�
 ![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ISENTAR_EMOL.PNG)
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
+
+Em algumas situações é preciso gerar atos com data retroativa, clique no botão Desbloquear data da prática do ato para que o campo seja liberado e a data possa ser modificada. Vale lembrar que a data da emissão será sempre a do momento da geração do selo digital.
 
 ![replicar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REPLICAR_LINHA.PNG)
 
