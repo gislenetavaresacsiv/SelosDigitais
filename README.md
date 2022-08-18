@@ -136,7 +136,36 @@ Após selecionar o selo, o mesmo será apresentado no campo *Selo retificado*.
 
 **h. Folha ou Ficha:** Possível colocar a folha ou ficha do livro.
 
-Serão exibidos no rodapé da tela o estoque de selos será informado para que o usuário saiba quando é a hora de solicitar mais. 
+![emitir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EMITIR.PNG)
+
+![recibo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/RECIBO.PNG)
+
+![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
+
+![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
+
+![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
+
+![desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ALTERAR_VALOR_EMOL.PNG)
+
+![porcentagem](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_ACRESCIMO_DESCONTO.PNG)
+
+![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ISENTAR_EMOL.PNG)
+
+![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
+
+![replicar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REPLICAR_LINHA.PNG)
+
+![tabela_ano_anterior](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_TABELA_ANO_ANTERIOR.PNG)
+
+![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG)
+
+![remover_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_LINHA.PNG)
+
+![remover_todas_linhas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_TODAS_LINHAS.PNG)
+
+![info_primeiro_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/COPIAR_INFORMACOES_PRIMERO_ATO.PNG)
+
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
