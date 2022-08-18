@@ -136,11 +136,20 @@ Após selecionar o selo, o mesmo será apresentado no campo *Selo retificado*.
 
 **h. Folha ou Ficha:** Possível colocar a folha ou ficha do livro.
 
+
 ![emitir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EMITIR.PNG)
+
+Após definir todas as condições, clique no botão Emitir, no topo da página, para que os dados sejam salvos e o selo impresso. O sistema exibirá uma mensagem sobre a emissão.
 
 ![recibo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/RECIBO.PNG)
 
+Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emitirem o selo digital. Nesse caso, é possível clicar em Buscar recibo e será solicitado o código do mesmo para os atos serem importados. É prático e rápido.
+
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
+
+Em algumas situações é preciso gerar atos com data retroativa, clique no botão Desbloquear data da prática do ato para que o campo seja liberado e a data possa ser modificada. Vale lembrar que a data da emissão será sempre a do momento da geração do selo digital.
+
+
 
 ![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
 
