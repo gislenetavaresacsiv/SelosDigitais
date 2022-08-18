@@ -167,6 +167,10 @@ Em algumas situações é preciso gerar atos com data retroativa, clique no bot�
 
 ![replicar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REPLICAR_LINHA.PNG)
 
+Cada ato que compõe o selo deve ser inserido de forma individual, não havendo a possibilidade de definir a quantidade. O botão Replicar linha facilita processo o processo quando, por exemplo, é necessário informar 20 arquivamentos. Para isso, não há a necessidade de repetir a inserção de linhas por tantas vezes e sim, selecionar o ato desejado e clicar nesse botão. Uma solicitação de quantidades adicionais será exibida e os atos serão replicados.
+
+
+
 ![tabela_ano_anterior](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_TABELA_ANO_ANTERIOR.PNG)
 
 ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG)
