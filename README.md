@@ -71,15 +71,15 @@ Os campos necessários para as configuração são:
 
 **b. Selo digital:** Selecione o modelo de etiqueta que será utilizado no ato. **Ex.:** Selo Eletrônico editável, esse modelo é possível copiar o selo e colar no documento word.
 
-**c. Exibir pré-definições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) o sistema apresentará o quadro a direita para preencher o selo que será utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
+**c. Exibir pré-definições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) no rodapé da página, o sistema apresentará o quadro a direita para preencher o selo que será utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
 
-**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página, vá até a aba selo e no campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Pública.
+**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página,aba selo, campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Pública.
 
 ![tabela](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/TABELA.PNG)
 
 Essas serão as informações necessárias para emissão do selo pelo *(Menu Selos > Emissão)*, as outras configurações serão utilizadas conforme necessidade do cartório.
 
-**Obs.:** *Uma vez configurado, já fica salvo, não será preciso realizar a configuração antes de praticar o ato no dia a dia.*
+**Obs.:** *Uma vez configurado, já fica salvo, não será preciso realizar a configuração diária antes de praticar o ato no dia a dia.*
 
 ### 3. Emissão
 
@@ -101,7 +101,7 @@ Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para
 
 ![ABA_ATOS_VALOR_PATRIMONIAL](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_VALOR_PATRIMONIAL.PNG)
 
-Vamos descrever os itens que compõem a aba atos:
+> Vamos descrever os itens que compõem a aba atos:
 
 
 **a. Forma de emissão:**     ![vinculados_desvinculados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/VINCULADOS_DESVINCULADOS.PNG)
@@ -135,6 +135,8 @@ Após selecionar o selo, o mesmo será apresentado no campo *Selo retificado*.
 **g. Livro:** Utilizado para preencher o número do livro.
 
 **h. Folha ou Ficha:** Possível colocar a folha ou ficha do livro.
+
+Serão exibidos no rodapé da tela o estoque de selos será informado para que o usuário saiba quando é a hora de solicitar mais. 
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
