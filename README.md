@@ -147,8 +147,7 @@ Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emit
 
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
 
-
-
+Fecha o formulário, da mesma forma que clicar no [X] inferior da barra de menus. 
 
 
 ![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
@@ -174,12 +173,22 @@ Cada ato que compõe o selo deve ser inserido de forma individual, não havendo 
 ![tabela_ano_anterior](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_TABELA_ANO_ANTERIOR.PNG)
 
 ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG)
-
 ![remover_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_LINHA.PNG)
-
 ![remover_todas_linhas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_TODAS_LINHAS.PNG)
 
+ Alguns formulários, podem conter a barra de ferramentas abaixo para controle de linhas de uma determinada tabela. Para *Inserir* ou *Remover* uma linha, basta clicar nos primeiros botões. Caso queira remover todas as linhas da tabela de uma só vez, basta clicar em *Remover* todas as linhas.
+
+
+
 ![info_primeiro_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/COPIAR_INFORMACOES_PRIMERO_ATO.PNG)
+
+Com esse checkbox selecionado, é possível copiar as informações do primeiro ato conforme imagens a seguir:
+
+![aba_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_ATO.PNG)
+
+![Aba_pessoa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_PESSOA.PNG)
+
+![aba_imoveis](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_IMOVEIS.PNG)
 
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
