@@ -182,13 +182,15 @@ Cada ato que compõe o selo deve ser inserido de forma individual, não havendo 
 
 ![info_primeiro_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/COPIAR_INFORMACOES_PRIMERO_ATO.PNG)
 
-Com esse checkbox selecionado, é possível copiar as informações do primeiro ato conforme imagens a seguir:
+Com o checkbox selecionado, é possível copiar as informações do primeiro ato conforme imagens a seguir:
 
 ![aba_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_ATO.PNG)
 
 ![Aba_pessoa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_PESSOA.PNG)
 
 ![aba_imoveis](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_IMOVEIS.PNG)
+
+
 
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
