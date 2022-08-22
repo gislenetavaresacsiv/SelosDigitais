@@ -267,6 +267,20 @@ Serão exibidas as listas de selos para envio.
 
 **c. Lote:** Utilizado para informar o número do lote, caso estejam enviando selos com lote complementar.
 
+![selos_postecipacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/SELOS_POSTECIPACAO.PNG) Ao marcar esse checkbox, o sistema vai retornar todos os selos de postecipação para envio.
+
+![pesquisar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG)
+
+![enviar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIAR.PNG)
+
+![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
+
+![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/XML.PNG)
+
+![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
+
+![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG)
+
 
 ### 5. Manutenção
 
