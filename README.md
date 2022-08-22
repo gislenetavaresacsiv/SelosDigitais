@@ -147,15 +147,19 @@ Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emit
 
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
 
-
-
+Fecha o formulário, da mesma forma que clicar no [X] inferior da barra de menus. 
 
 
 ![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
 
+Possível reemprimir o selo novamente.
+
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
 
+Utilizado para desbloquear o campo selo retificado, caso seja necessário realizar retificação de atos.
+
 ![desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ALTERAR_VALOR_EMOL.PNG)
+
 
 ![porcentagem](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_ACRESCIMO_DESCONTO.PNG)
 
@@ -167,37 +171,102 @@ Em algumas situações é preciso gerar atos com data retroativa, clique no bot�
 
 ![replicar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REPLICAR_LINHA.PNG)
 
+Cada ato que compõe o selo deve ser inserido de forma individual, não havendo a possibilidade de definir a quantidade. O botão Replicar linha facilita processo o processo quando, por exemplo, é necessário informar 20 arquivamentos. Para isso, não há a necessidade de repetir a inserção de linhas por tantas vezes e sim, selecionar o ato desejado e clicar nesse botão. Uma solicitação de quantidades adicionais será exibida e os atos serão replicados.
+
+
+
 ![tabela_ano_anterior](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_TABELA_ANO_ANTERIOR.PNG)
 
+Possível aplicar tabela do ano anterior na prática do ato.
+
 ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG)
-
 ![remover_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_LINHA.PNG)
-
 ![remover_todas_linhas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_TODAS_LINHAS.PNG)
+
+ Alguns formulários, podem conter a barra de ferramentas abaixo para controle de linhas de uma determinada tabela. Para *Inserir* ou *Remover* uma linha, basta clicar nos primeiros botões. Caso queira remover todas as linhas da tabela de uma só vez, basta clicar em *Remover* todas as linhas.
+
+
 
 ![info_primeiro_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/COPIAR_INFORMACOES_PRIMERO_ATO.PNG)
 
+Com o checkbox selecionado, é possível copiar as informações do primeiro ato conforme imagens a seguir:
+
+![aba_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_ATO.PNG)
+
+![Aba_pessoa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_PESSOA.PNG)
+
+![aba_imoveis](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_IMOVEIS.PNG)
+
+
+
+> Vamos descrever os itens que compõem a aba Pessoas:
+
+Para prática dos atos, o tribunal exige que seja informado pelo menos uma pessoa por ato.
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
+**a.Descrição:** Sempre será o nome do ato que está sendo praticado, nesse exemplo, foi utilizado o ato de *Escrituras públicas com valor declarado.*
+
+**b. Nome:** Campo utilizado para informar a pessoa que foi até ao cartório praticar o ato, o tribunal exige que seja informado pelo menos uma pessoa por ato. Pode-se informar a pessoa pelo botão ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), caso o cliente tenha praticado atos anteriormente no cartório e tenha seu cadastro salvo no sistema, basta pesquisar pelo binóculo ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISA_CADASTRO.PNG), o sistema vai apresentar a tela a seguir:
+
 ![ABA_PESSOAS_PESQUISA_PARTES](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOAS_PESQUISA_PARTES.PNG)
+
+Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG), assim que o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG),mas caso o cliente não tenha cadastro no sistema, basta preencher o campo com os dados.
+
+**Aguardar a base para explicar o 3 botão que não sei.**
+
+**c. Tipo doc.:** Pode-se selecionar o tipo de documento apresentado pelo cliente, conforme imagem a seguir:
 
 ![ABA_PESSOA_TIPO_DOCUMENTO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_TIPO_DOCUMENTO.png)
 
+**d. Documento:** Campo Utilizado para preencher o tipo de documento apresentado pelo cliente. **Ex.:** Se o cliente apresentou o CPF *(Cadastro de Pessoa Física)*, você vai preencher o campo com o número do cpf apresentado.
+
+**e. Participação:** Pode-se selecionar entre as participações da pessoa no ato, conforme imagem a seguir:
+
+
 ![ABA_PESSOA_PARTICIPACAO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_PARTICIPACAO.png)
+
+
+> Vamos descrever os itens que compõem a aba Imóveis:
+
+*Nota:*
+
+* Atos códigos *(075 a 088) Escrituras com valor declarado*, é obrigatório informar o endereço do imóvel.
+
+* Atos códigos *(103 a 104) Escrituras sem valor decalrado, (115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação, (120 a 129) Procuração e subestabelecimento*, valor da transação não é obrigatório.
+
+* Atos *(115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação*, Livro; Folha/Ficha e Termo não são obrigatórios.
+
+* Todas regras acima aplicam-se aos atos retificadores.
+
+* Natureza do ato: 3000 a 3004; 3007 a 3012; 3015; 3017 a 3023 e 3026 a 3050, endereço do imóvel não é obrigatório.
+
 
 ![ABA_IMOVEIS_COM_ENDERECO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_COM_ENDERECO.PNG)
 
+Para adicionar o endereço do imóvel, basta clicar em ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), ao preencher o *CEP*, o sistema apresentará a tela a seguir: 
+
 ![ABA_IMOVEIS_PESQUISA_CEP](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_PESQUISA_CEP.PNG)
+
+Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o endereço conforme imagem anterior, caso não queira pesquisar o *CEP*, basta clicar em não e realizar o preenchimento do campo manual.
 
 
 
 
 ### 4. Envio
 
-Como fizemos com a importação, recebendo os selos em nossa base de dados, o envio gera um arquivo com os dados dos selos para o Tribunal de Justiça. Esse envio deve ser realizado conforme a necessidade do cartório, são elas: *(uma vez no dia, uma vez por semana, de quinze em quinze dias ou uma vez por mês)*. Informe o intervalo de data desejado e clique em Pesquisar.
+Como fizemos com a importação, recebendo os selos em nossa base de dados, o envio gera um arquivo com os dados dos selos para o Tribunal de Justiça. Esse envio deve ser realizado conforme a necessidade do cartório, são elas: *(uma vez no dia, uma vez por semana, de quinze em quinze dias ou uma vez por mês)*. Informe o intervalo de data desejado e clique em *Pesquisar*.
 
 Serão exibidas as listas de selos para envio.
+
+![envio](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ENVIO.PNG)
+
+**a. Dt. inicial:** Data inicial para a pesquisa dos selos para envio dos selos ao tribunal.
+
+**b. Dt. final:** Data final para a pesquisa dos selos para envio dos selos ao tribunal.
+
+**c. Lote:** Utilizado para informar o número do lote, caso estejam enviando selos com lote complementar.
+
 
 ### 5. Manutenção
 
