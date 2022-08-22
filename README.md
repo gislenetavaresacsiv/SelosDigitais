@@ -255,9 +255,18 @@ Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o ende
 
 ### 4. Envio
 
-Como fizemos com a importação, recebendo os selos em nossa base de dados, o envio gera um arquivo com os dados dos selos para o Tribunal de Justiça. Esse envio deve ser realizado conforme a necessidade do cartório, são elas: *(uma vez no dia, uma vez por semana, de quinze em quinze dias ou uma vez por mês)*. Informe o intervalo de data desejado e clique em Pesquisar.
+Como fizemos com a importação, recebendo os selos em nossa base de dados, o envio gera um arquivo com os dados dos selos para o Tribunal de Justiça. Esse envio deve ser realizado conforme a necessidade do cartório, são elas: *(uma vez no dia, uma vez por semana, de quinze em quinze dias ou uma vez por mês)*. Informe o intervalo de data desejado e clique em *Pesquisar*.
 
 Serão exibidas as listas de selos para envio.
+
+![envio](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ENVIO.PNG)
+
+**a. Dt. inicial:** Data inicial para a pesquisa dos selos para envio dos selos ao tribunal.
+
+**b. Dt. final:** Data final para a pesquisa dos selos para envio dos selos ao tribunal.
+
+**c. Lote:** Utilizado para informar o número do lote, caso estejam enviando selos com lote complementar.
+
 
 ### 5. Manutenção
 
