@@ -211,13 +211,22 @@ Para prática dos atos, o tribunal exige que seja informado pelo menos uma pesso
 
 ![ABA_PESSOAS_PESQUISA_PARTES](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOAS_PESQUISA_PARTES.PNG)
 
-Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG), assim que o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). Mas caso o cliente não tenha cadastro no sistema, basta preencher o campo com os dados.
+Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG), assim que o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG),mas caso o cliente não tenha cadastro no sistema, basta preencher o campo com os dados.
 
 **Aguardar a base para explicar o 3 botão que não sei.**
 
+**c. Tipo doc.:** Pode-se selecionar o tipo de documento apresentado pelo cliente, conforme imagem a seguir:
+
 ![ABA_PESSOA_TIPO_DOCUMENTO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_TIPO_DOCUMENTO.png)
 
+**d. Documento:** Campo Utilizado para preencher o tipo de documento apresentado pelo cliente. **Ex.:** Se o cliente apresentou o CPF *(Cadastro de Pessoa Física)*, você vai preencher o campo com o número do cpf apresentado.
+
+**e. Participação:** Pode-se selecionar entre as participações da pessoa no ato, conforme imagem a seguir:
+
+
 ![ABA_PESSOA_PARTICIPACAO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_PARTICIPACAO.png)
+
+
 
 ![ABA_IMOVEIS_COM_ENDERECO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_COM_ENDERECO.PNG)
 
