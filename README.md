@@ -227,10 +227,28 @@ Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.
 ![ABA_PESSOA_PARTICIPACAO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_PARTICIPACAO.png)
 
 
+> Vamos descrever os itens que compõem a aba Imóveis:
+
+*Nota:*
+
+* Atos códigos *(075 a 088) Escrituras com valor declarado*, é obrigatório informar o endereço do imóvel.
+
+* Atos códigos *(103 a 104) Escrituras sem valor decalrado, (115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação, (120 a 129) Procuração e subestabelecimento*, valor da transação não é obrigatório.
+
+* Atos *(115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação*, Livro; Folha/Ficha e Termo não são obrigatórios.
+
+* Todas regras acima aplicam-se aos atos retificadores.
+
+* Natureza do ato: 3000 a 3004; 3007 a 3012; 3015; 3017 a 3023 e 3026 a 3050, endereço do imóvel não é obrigatório.
+
 
 ![ABA_IMOVEIS_COM_ENDERECO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_COM_ENDERECO.PNG)
 
+Para adicionar o endereço do imóvel, basta clicar em ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), ao preencher o *CEP*, o sistema apresentará a tela a seguir: 
+
 ![ABA_IMOVEIS_PESQUISA_CEP](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_PESQUISA_CEP.PNG)
+
+Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o endereço conforme imagem anterior, caso não queira pesquisar o *CEP*, basta clicar em não e realizar o preenchimento do campo manual.
 
 
 
