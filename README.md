@@ -177,6 +177,8 @@ Cada ato que compõe o selo deve ser inserido de forma individual, não havendo 
 
 ![tabela_ano_anterior](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_TABELA_ANO_ANTERIOR.PNG)
 
+Possível aplicar tabela do ano anterior na prática do ato.
+
 ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG)
 ![remover_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_LINHA.PNG)
 ![remover_todas_linhas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REMOVER_TODAS_LINHAS.PNG)
@@ -196,7 +198,7 @@ Com o checkbox selecionado, é possível copiar as informações do primeiro ato
 ![aba_imoveis](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_IMOVEIS.PNG)
 
 
-
+> Vamos descrever os itens que compõem a aba Pessoas:
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
