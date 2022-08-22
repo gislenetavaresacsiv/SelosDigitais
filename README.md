@@ -198,11 +198,22 @@ Com o checkbox selecionado, é possível copiar as informações do primeiro ato
 ![aba_imoveis](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/COPIAR_INFORMACOES_PRIMERO_ATO_ABA_IMOVEIS.PNG)
 
 
+
 > Vamos descrever os itens que compõem a aba Pessoas:
+
+Para prática dos atos, o tribunal exige que seja informado pelo menos uma pessoa por ato.
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
+**a.Descrição:** Sempre será o nome do ato que está sendo praticado, nesse exemplo, foi utilizado o ato de *Escrituras públicas com valor declarado.*
+
+**b. Nome:** Campo utilizado para informar a pessoa que foi até ao cartório praticar o ato, o tribunal exige que seja informado pelo menos uma pessoa por ato. Pode-se informar a pessoa pelo botão ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), caso o cliente tenha praticado atos anteriormente no cartório e tenha seu cadastro salvo no sistema, basta pesquisar pelo binóculo ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISA_CADASTRO.PNG), o sistema vai apresentar a tela a seguir:
+
 ![ABA_PESSOAS_PESQUISA_PARTES](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOAS_PESQUISA_PARTES.PNG)
+
+Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG), assim que o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). Mas caso o cliente não tenha cadastro no sistema, basta preencher o campo com os dados.
+
+**Aguardar a base para explicar o 3 botão que não sei.**
 
 ![ABA_PESSOA_TIPO_DOCUMENTO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_TIPO_DOCUMENTO.png)
 
