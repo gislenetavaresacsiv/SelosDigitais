@@ -271,11 +271,44 @@ Serão exibidas as listas de selos para envio.
 
 ![pesquisar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG)
 
+
+Pesquisa os selos pela definição escolhida na *Dt. inicial/Dt. final*.
+
 ![enviar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIAR.PNG)
+
+
+Após pesquisar os selos, basta clicar em enviar para que os selos sejam enviados ao tribunal.
 
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
 
+Fecha a tela de envio de selos.
+
 ![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/XML.PNG)
+
+Possível gerar um xml de teste, esse recurso é mais utilizado pelo nosso suporte técnico.
+
+![arquivo_gerado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/GERAR_ARQUIVO_TESTE.PNG)
+
+
+![ok](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/OK.PNG)
+
+Ao selecionar, simplesmente será fechado a janela apresentada.
+
+![abrir_arquivo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_ARQUIVO.PNG)
+
+Ao selecionar a opção *abrir arquivo*, é possível abrir o arquivo conforme imagem abaixo:
+
+![arquivo_aberto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_ARQUIVO.PNG)
+
+
+
+![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_PASTA.PNG)
+
+Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o xml, segue imagem abaixo demonstrando:
+
+![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_PASTA.PNG)
+
+
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
 
