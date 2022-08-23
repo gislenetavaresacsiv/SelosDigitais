@@ -313,13 +313,13 @@ Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi sa
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
 
+Por padrão todos os selos emitidos são selecionados, mas podemos refazer essa seleção caso seja necessário enviar ou reenviar algum específico.
+
 *Desbloquear escolha de selos a enviar* é utilizado para desbloquear campos, utilizado mais pelo nosso suporte técnico, mas vamos demonstrar sua funcionalidade. Ao clicar no cadeado o sistema solicita uma contra-chave *(chave gerada pelo nosso suporte)*, conforme imagem a seguir:
 
 ![contra_chave](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/CONTRA_CHAVE.PNG)
 
 Ao validar a operação com a contra-chave, desbloqueia os campos para devidas alterações.
-
-Pode-se desmarcar e marcar a coluna de selos para envio. **Ex.:** *Recurso utilizado para eliminar selos que estejam com erro na hora do envio, ao desmarcar, possível enviar em quantidades menores para encontrar selos que se encontra com erros ou para escolher selos para envio ao tribunal.*
 
 Para ter acesso a coluna de seleção, basta clicar com botão direito do mouse em cima do checkbox conforme imagem abaixo:
 
