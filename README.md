@@ -322,14 +322,13 @@ Pode-se desmarcar e marcar a coluna de selos para envio. *Ex.:* *Recurso utiliza
 
 Para ter acesso a coluna de seleção, basta clicar com botão direito do mouse em cima do checkbox conforme imagem abaixo:
 
+É possível *(marcar todos, desmarcar todos, inverter marcação, quantidade, congelar, filtrar, ordenar e copiar célula)*
+
 ![desmarcar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/DESMARCAR_SELOS.png)
 
 * campos desmarcados:
 
 ![desmarcados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/CAMPOS_DESMARCADOS.PNG)
-
-
-
 
 
 
