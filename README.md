@@ -90,12 +90,12 @@ Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado *
 
 ![ABA_ATOS_COM_ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_COM_ATO.PNG)
 
-Para adicionar os atos que irão compor, clique no botão ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), no rodapé da página, e pesquise pelo ato desejado, conforme imagem a seguir:
+Para adicionar os atos que irão compor, clique em ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), no rodapé da página, e pesquise pelo ato desejado, conforme imagem a seguir:
 
 ![pesquisa_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
 
 
-Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
+Após realizar a pesquisa do ato, basta clicar em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
 
 Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para localizar a tabela de emolumentos:
 
@@ -108,7 +108,7 @@ Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para
 
  * Vinculados: A emissão de selos vinculados é feita quando todos os atos são realizados para um único interessado. Neste caso, quando ele consultar o selo estará relacionado a todos os atos vinculados.
  
- * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele slicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
+ * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele solicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
 
 **b. Dt. recolhimento:** Utilizado para colocar a data de recolhimento do ato.
 
@@ -143,7 +143,7 @@ Após definir todas as condições, clique no botão Emitir, no topo da página,
 
 ![recibo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/RECIBO.PNG)
 
-Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emitirem o selo digital. Nesse caso, é possível clicar em Buscar recibo e será solicitado o código do mesmo para os atos serem importados. É prático e rápido.
+Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emitirem o selo digital. Nesse caso, é possível clicar em Buscar recibo e será solicitado o código do mesmo para os atos serem importados. É prático e rápido. O recibo poderá ser criado pelo *(Menu Cartório > Recibos).*
 
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
 
@@ -313,7 +313,7 @@ Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi sa
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
 
-Por padrão todos os selos emitidos são selecionados, mas podemos refazer essa seleção caso seja necessário enviar ou reenviar algum específico.
+Por padrão todos os selos emitidos são selecionados, mas podemos refazer essa seleção caso seja necessário.
 
 *Desbloquear escolha de selos a enviar* é utilizado para desbloquear campos, utilizado mais pelo nosso suporte técnico, mas vamos demonstrar sua funcionalidade. Ao clicar no cadeado o sistema solicita uma contra-chave *(chave gerada pelo nosso suporte)*, conforme imagem a seguir:
 
