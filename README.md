@@ -168,7 +168,7 @@ Caso queira alterar valores dos emolumentos.
 
 ![alterar_valores](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL.PNG)
 
-* Emolumento: Utilizado para ajustar o valor de emolumento, ao clicar, o sistema vai apresentar a tela a seguir para colocar o valor de ajuste:
+* Emolumento: Utilizado para ajustar o valor de emolumento, ao clicar, o sistema vai apresentar a tela a seguir para colocar o valor de ajuste.
 
 ![valor_emol](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL_ALTERANDO.PNG)
 
@@ -185,6 +185,16 @@ Basta apagar o valor do emolumento e inserir o valor que necessita.
 
 
 ![porcentagem](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_ACRESCIMO_DESCONTO.PNG)
+
+Utilizado para colocar acréscimo ou desconto.
+
+![acrescimo_desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/APLICAR_ACRESCIMO_DESCONTO.PNG)
+
+Mas para colocar acréscimo/desconto precisa preencher a coluna nota.
+
+![opcoes_nota](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/NOTA.png)
+
+![acrescimo_desconto_preenchido](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/APLICAR_ACRESCIMO_DESCONTO_PREENCHIDO.PNG)
 
 ![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ISENTAR_EMOL.PNG)
 
