@@ -90,12 +90,12 @@ Nesse exemplo, utilizaremos um ato de escrituras públicas com valor declarado *
 
 ![ABA_ATOS_COM_ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_COM_ATO.PNG)
 
-Para adicionar os atos que irão compor, clique no botão ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), no rodapé da página, e pesquise pelo ato desejado, conforme imagem a seguir:
+Para adicionar os atos que irão compor, clique em ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), no rodapé da página, e pesquise pelo ato desejado, conforme imagem a seguir:
 
 ![pesquisa_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_BUSCA.PNG)
 
 
-Após realizar a pesquisa do ato, basta clicar no botão ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
+Após realizar a pesquisa do ato, basta clicar em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
 
 Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para localizar a tabela de emolumentos:
 
@@ -108,7 +108,7 @@ Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para
 
  * Vinculados: A emissão de selos vinculados é feita quando todos os atos são realizados para um único interessado. Neste caso, quando ele consultar o selo estará relacionado a todos os atos vinculados.
  
- * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele slicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
+ * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele solicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
 
 **b. Dt. recolhimento:** Utilizado para colocar a data de recolhimento do ato.
 
@@ -143,7 +143,7 @@ Após definir todas as condições, clique no botão Emitir, no topo da página,
 
 ![recibo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/RECIBO.PNG)
 
-Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emitirem o selo digital. Nesse caso, é possível clicar em Buscar recibo e será solicitado o código do mesmo para os atos serem importados. É prático e rápido.
+Alguns cartórios fazem, primeiramente, o lançamento do recibo para depois emitirem o selo digital. Nesse caso, é possível clicar em Buscar recibo e será solicitado o código do mesmo para os atos serem importados. É prático e rápido. O recibo poderá ser criado pelo *(Menu Cartório > Recibos).*
 
 ![fechar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/FECHAR.PNG)
 
@@ -257,7 +257,7 @@ Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o ende
 
 Como fizemos com a importação, recebendo os selos em nossa base de dados, o envio gera um arquivo com os dados dos selos para o Tribunal de Justiça. Esse envio deve ser realizado conforme a necessidade do cartório, são elas: *(uma vez no dia, uma vez por semana, de quinze em quinze dias ou uma vez por mês)*. Informe o intervalo de data desejado e clique em *Pesquisar*.
 
-Serão exibidas as listas de selos para envio.
+Serão exibidas as listas de selos para envio:
 
 ![envio](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ENVIO.PNG)
 
@@ -267,12 +267,13 @@ Serão exibidas as listas de selos para envio.
 
 **c. Lote:** Utilizado para informar o número do lote, caso estejam enviando selos com lote complementar.
 
-![selos_postecipacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/SELOS_POSTECIPACAO.PNG) Ao marcar esse checkbox, o sistema vai retornar todos os selos de postecipação para envio.
+![selos_postecipacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/SELOS_POSTECIPACAO.PNG) Ao marcar esse checkbox, o sistema vai retornar todos os selos de postecipação para envio ao tribunal.
+
 
 ![pesquisar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG)
 
 
-Pesquisa os selos pela definição escolhida na *Dt. inicial/Dt. final*.
+Pesquisa os selos pela data escolhida na *Dt. inicial/Dt. final*.
 
 ![enviar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIAR.PNG)
 
@@ -285,7 +286,7 @@ Fecha a tela de envio de selos.
 
 ![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/XML.PNG)
 
-Possível gerar um xml de teste, esse recurso é mais utilizado pelo nosso suporte técnico.
+Possível gerar um xml teste, esse recurso é mais utilizado pelo nosso suporte técnico.
 
 ![arquivo_gerado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/GERAR_ARQUIVO_TESTE.PNG)
 
@@ -304,7 +305,7 @@ Ao selecionar a opção *abrir arquivo*, é possível abrir o arquivo conforme i
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_PASTA.PNG)
 
-Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o xml, segue imagem abaixo demonstrando:
+Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o xml no seu computador. Nesse exemplo, o sistema salvou o arquivo *xml* no caminho C:\Acsiv\Gestor\Temp.
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_PASTA.PNG)
 
@@ -312,28 +313,41 @@ Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi sa
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
 
-O cadeado é utilizado para desbloquear campos, utilizado mais pelo nosso suporte técnico, mas vamos demonstrar sua funcionalidade. Ao clicar no cadeado o sistema solicita uma contra-chave *(chave gerada pelo nosso suporte)*, conforme imagem a seguir:
+Por padrão todos os selos emitidos são selecionados, mas podemos refazer essa seleção caso seja necessário.
+
+*Desbloquear escolha de selos a enviar* é utilizado para desbloquear campos, utilizado mais pelo nosso suporte técnico, mas vamos demonstrar sua funcionalidade. Ao clicar no cadeado o sistema solicita uma contra-chave *(chave gerada pelo nosso suporte)*, conforme imagem a seguir:
 
 ![contra_chave](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/CONTRA_CHAVE.PNG)
 
 Ao validar a operação com a contra-chave, desbloqueia os campos para devidas alterações.
 
-Pode-se desmarcar e marcar a coluna de selos para envio. *Ex.:* *Recurso utilizado para eliminar selos que estejam com erro na hora do envio, ao desmarcar, possível enviar em quantidades menores para encontrar selos que se encontra com erros.
-
 Para ter acesso a coluna de seleção, basta clicar com botão direito do mouse em cima do checkbox conforme imagem abaixo:
 
-É possível *(marcar todos, desmarcar todos, inverter marcação, quantidade, congelar, filtrar, ordenar e copiar célula)*
 
 ![desmarcar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/DESMARCAR_SELOS.png)
+
+É possível *(marcar todos, desmarcar todos, inverter marcação, quantidade, congelar, filtrar, ordenar e copiar célula).*
 
 * campos desmarcados:
 
 ![desmarcados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/CAMPOS_DESMARCADOS.PNG)
 
 
-
+Abrir pasta é utilizado para abrir o selo novamente, caso haja necessidade.
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG)
+
+Ao selecionar o selo, o mesmo será apresentado conforme imagem a seguir:
+
+![abrir_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_SELO.PNG)
+
+Demonstra a quantidade total de selos retornada pela pesquisa de datas para envio ao tribunal.
+
+![quant_total](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/QUANTIDADE_TOTAL.PNG)
+
+Demonstra a quantidade de selos selecionada para envio ao tribunal.
+
+![quant_selecionada](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/QUANTIDADE_SELECIONADA.PNG)
 
 
 ### 5. Manutenção
