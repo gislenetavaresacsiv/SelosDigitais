@@ -304,7 +304,7 @@ Ao selecionar a opção *abrir arquivo*, é possível abrir o arquivo conforme i
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_PASTA.PNG)
 
-Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o xml, segue imagem abaixo demonstrando:
+Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o xml.
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_PASTA.PNG)
 
@@ -318,11 +318,11 @@ O cadeado é utilizado para desbloquear campos, utilizado mais pelo nosso suport
 
 Ao validar a operação com a contra-chave, desbloqueia os campos para devidas alterações.
 
-Pode-se desmarcar e marcar a coluna de selos para envio. *Ex.:* *Recurso utilizado para eliminar selos que estejam com erro na hora do envio, ao desmarcar, possível enviar em quantidades menores para encontrar selos que se encontra com erros.
+Pode-se desmarcar e marcar a coluna de selos para envio. **Ex.:** *Recurso utilizado para eliminar selos que estejam com erro na hora do envio, ao desmarcar, possível enviar em quantidades menores para encontrar selos que se encontra com erros.*
 
 Para ter acesso a coluna de seleção, basta clicar com botão direito do mouse em cima do checkbox conforme imagem abaixo:
 
-É possível *(marcar todos, desmarcar todos, inverter marcação, quantidade, congelar, filtrar, ordenar e copiar célula)*
+É possível *(marcar todos, desmarcar todos, inverter marcação, quantidade, congelar, filtrar, ordenar e copiar célula).*
 
 ![desmarcar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/DESMARCAR_SELOS.png)
 
@@ -331,9 +331,21 @@ Para ter acesso a coluna de seleção, basta clicar com botão direito do mouse 
 ![desmarcados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/CAMPOS_DESMARCADOS.PNG)
 
 
-
+Abrir pasta é utilizado para abrir o selo novamente.
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG)
+
+Ao selecionar o selo, o mesmo será apresentado conforme imagem:
+
+![abrir_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_SELO.PNG)
+
+Demonstra a quantidade total de selos retornada pela pesquisa de datas para envio ao tribunal.
+
+![quant_total](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/QUANTIDADE_TOTAL.PNG)
+
+Demonstra a quantidade de selos selecionada para envio ao tribunal.
+
+![quant_selecionada](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/QUANTIDADE_SELECIONADA.PNG)
 
 
 ### 5. Manutenção
