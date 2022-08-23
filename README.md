@@ -154,11 +154,34 @@ Fecha o formulário, da mesma forma que clicar no [X] inferior da barra de menus
 
 Possível reemprimir o selo novamente.
 
+![reemprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/IMPRESSORA.png)
+
+
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
 
 Utilizado para desbloquear o campo selo retificado, caso seja necessário realizar retificação de atos.
 
+
 ![desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ALTERAR_VALOR_EMOL.PNG)
+
+Caso queira alterar valores dos emolumentos.
+
+![alterar_valores](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL.PNG)
+
+* Emolumento: Utilizado para ajustar o valor de emolumento, ao clicar, o sistema vai apresentar a tela a seguir para colocar o valor de ajuste:
+
+![valor_emol](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL_ALTERANDO.PNG)
+
+Basta apagar o valor do emolumento e inserir o valor que necessita.
+
+![valor_emol_vazio](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL_ZERADO.PNG)
+
+* FRJ: Utilizado para ajustar o valor da coluna frj, caso seja necessário.
+
+
+* FRC: Utilizado para ajustar o valor da coluna frc, caso seja necessário.
+
+* Transação: Utilizado para ajustar o valor da coluna transação, caso seja necessário.
 
 
 ![porcentagem](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/APLICAR_ACRESCIMO_DESCONTO.PNG)
