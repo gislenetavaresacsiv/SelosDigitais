@@ -152,9 +152,29 @@ Fecha o formulário, da mesma forma que clicar no [X] inferior da barra de menus
 
 ![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
 
-Possível reemprimir o selo novamente.
+Possível reemprimir o selo novamente, ao clicar na impressora, o sistema apresentará os modelos de selos para que possa selecionar o desejado.
 
 ![reemprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/IMPRESSORA.png)
+
+Ao escolher a opção *SELO ELETRÔNICO EDITÁVEL*, é possível colar o mesmo em um documento *word*, segue exemplo:
+
+* Selo com formatação
+
+![selo_com_formatacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO.PNG)
+
+* Selo sem formatação
+
+![selo_sem_formatacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_SEM_FORMATACAO.PNG)
+
+* Selo de linha única
+
+![selo_linha_unica](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_LINHA_UNICA.PNG)
+
+Vamos demonstrar um exemplo de selo com formatação, ao selecionar o botão ![copiar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/COPIAR.PNG) é possível colar o mesmo no word.
+
+![impresso_word](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_WORD.PNG)
+
+![]()
 
 
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
@@ -164,7 +184,7 @@ Utilizado para desbloquear o campo selo retificado, caso seja necessário realiz
 
 ![desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ALTERAR_VALOR_EMOL.PNG)
 
-Caso queira alterar valores dos emolumentos.
+Caso queira alterar valor do *(Emolumento, FRJ, FRC ou da Transação)*.
 
 ![alterar_valores](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL.PNG)
 
@@ -197,6 +217,21 @@ Mas para colocar acréscimo/desconto precisa preencher a coluna nota.
 ![acrescimo_desconto_preenchido](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/APLICAR_ACRESCIMO_DESCONTO_PREENCHIDO.PNG)
 
 ![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ISENTAR_EMOL.PNG)
+
+Utilizado para isentar ou atualizar os emolumentos, ao clicar, o sistema apresentará a tela a seguir para escolher a opção:
+
+![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ISENTAR_EMOL.PNG)
+
+Ao selecionar a opção isentar, os campos serão isentos conforme imagem a seguir:
+
+![isento](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ISENTAR_EMOL_ALTER.PNG)
+
+Caso seja necessário retornar os valores dos emolumentos no ato, basta clicar na opção atualizar.
+
+![atualizar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ISENTAR_EMOL_ATUALIZAR.PNG)
+
+Ao atualizar, os valores retornam para as colunas.
+
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
 
@@ -238,7 +273,7 @@ Para prática dos atos, o tribunal exige que seja informado pelo menos uma pesso
 
 ![ABA_PESSOA_COM_PESSOA](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_COM_PESSOA.PNG)
 
-**a.Descrição:** Sempre será o nome do ato que está sendo praticado, nesse exemplo, foi utilizado o ato de *Escrituras públicas com valor declarado.*
+**a. Descrição:** Sempre será o nome do ato que está sendo praticado, nesse exemplo, foi utilizado o ato de *Escrituras públicas com valor declarado.*
 
 **b. Nome:** Campo utilizado para informar a pessoa que foi até ao cartório praticar o ato, o tribunal exige que seja informado pelo menos uma pessoa por ato. Pode-se informar a pessoa pelo botão ![inserir_linha](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/INSERIR_LINHA.PNG), caso o cliente tenha praticado atos anteriormente no cartório e tenha seu cadastro salvo no sistema, basta pesquisar pelo binóculo ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISA_CADASTRO.PNG), o sistema vai apresentar a tela a seguir:
 
@@ -246,13 +281,14 @@ Para prática dos atos, o tribunal exige que seja informado pelo menos uma pesso
 
 Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG), assim que o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG),mas caso o cliente não tenha cadastro no sistema, basta preencher o campo com os dados.
 
-**Aguardar a base para explicar o 3 botão que não sei.**
+![importarpessoas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_PESSOAS_PRIMEIRO_ATO.PNG) Possível importar as pessoas do primeiro ato.
+
 
 **c. Tipo doc.:** Pode-se selecionar o tipo de documento apresentado pelo cliente, conforme imagem a seguir:
 
 ![ABA_PESSOA_TIPO_DOCUMENTO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_TIPO_DOCUMENTO.png)
 
-**d. Documento:** Campo Utilizado para preencher o tipo de documento apresentado pelo cliente. **Ex.:** Se o cliente apresentou o CPF *(Cadastro de Pessoa Física)*, você vai preencher o campo com o número do cpf apresentado.
+**d. Documento:** Utilizado para preencher o tipo de documento apresentado pelo cliente. **Ex.:** Se o cliente apresentou o CPF *(Cadastro de Pessoa Física)*, você vai preencher o campo com o número do cpf apresentado.
 
 **e. Participação:** Pode-se selecionar entre as participações da pessoa no ato, conforme imagem a seguir:
 
@@ -281,7 +317,7 @@ Para adicionar o endereço do imóvel, basta clicar em ![inserir_linha](https://
 
 ![ABA_IMOVEIS_PESQUISA_CEP](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_PESQUISA_CEP.PNG)
 
-Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o endereço conforme imagem anterior, caso não queira pesquisar o *CEP*, basta clicar em não e realizar o preenchimento do campo manual.
+Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o endereço conforme imagem anterior, caso não queira pesquisar o *CEP*, basta clicar em não e realizar o preenchimento dos campos manual.
 
 
 
