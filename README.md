@@ -439,6 +439,19 @@ A pesquisa pode ser realizada pelas seguintes opções:
 
 ![pesquisa_opcoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/CAMPO_PESQUISA.png)
 
+Para verificar informações no selo, basta selecionar o selo e em seguida clicar em ![abrir_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_SELO.PNG)
+
+![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/ABRIR.PNG)
+
+![reutilizar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REUTILIZAR_ULTIMO_SELO.PNG)
+
+![reimprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
+
+![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG)
+
+![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EXIBIR_SELOS_NAO_UTILIZADOS.PNG)
+
+![]()
 
 ### 6. Modelos
 
