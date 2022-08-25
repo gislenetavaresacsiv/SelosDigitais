@@ -156,6 +156,26 @@ Possível reemprimir o selo novamente, ao clicar na impressora, o sistema aprese
 
 ![reemprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/IMPRESSORA.png)
 
+Ao escolher a opção *SELO ELETRÔNICO EDITAL*, é possível colar o mesmo em um documento *word*, segue exemplo:
+
+* Selo com formatação
+
+![selo_com_formatacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO.PNG)
+
+* Selo sem formatação
+
+![selo_sem_formatacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_SEM_FORMATACAO.PNG)
+
+* Selo de linha única
+
+![selo_linha_unica](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_LINHA_UNICA.PNG)
+
+Vamos demonstrar um exemplo de selo com formatação, ao selecionar o botão ![copiar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/COPIAR.PNG) é possível colar o mesmo no word.
+
+![impresso_word](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_WORD.PNG)
+
+![]()
+
 
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
 
@@ -297,7 +317,7 @@ Para adicionar o endereço do imóvel, basta clicar em ![inserir_linha](https://
 
 ![ABA_IMOVEIS_PESQUISA_CEP](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_IMOVEIS_PESQUISA_CEP.PNG)
 
-Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o endereço conforme imagem anterior, caso não queira pesquisar o *CEP*, basta clicar em não e realizar o preenchimento do campo manual.
+Ao clicar em sim, o sistema vai pesquisar o *CEP* via internet e retornar o endereço conforme imagem anterior, caso não queira pesquisar o *CEP*, basta clicar em não e realizar o preenchimento dos campos manual.
 
 
 
