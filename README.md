@@ -152,7 +152,7 @@ Fecha o formulário, da mesma forma que clicar no [X] inferior da barra de menus
 
 ![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
 
-Possível reemprimir o selo novamente.
+Possível reemprimir o selo novamente, ao clicar na impressora, o sistema apresentará os modelos de selos para que possa selecionar o desejado.
 
 ![reemprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/IMPRESSORA.png)
 
@@ -164,7 +164,7 @@ Utilizado para desbloquear o campo selo retificado, caso seja necessário realiz
 
 ![desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ALTERAR_VALOR_EMOL.PNG)
 
-Caso queira alterar valores dos emolumentos.
+Caso queira alterar valor do *(Emolumento, FRJ, FRC ou da Transação)*.
 
 ![alterar_valores](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL.PNG)
 
@@ -197,6 +197,21 @@ Mas para colocar acréscimo/desconto precisa preencher a coluna nota.
 ![acrescimo_desconto_preenchido](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/APLICAR_ACRESCIMO_DESCONTO_PREENCHIDO.PNG)
 
 ![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ISENTAR_EMOL.PNG)
+
+Utilizado para isentar ou atualizar os emolumentos, ao clicar, o sistema apresentará a tela a seguir para escolher a opção:
+
+![isentar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ISENTAR_EMOL.PNG)
+
+Ao selecionar a opção isentar, os campos serão isentos conforme imagem a seguir:
+
+![isento](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ISENTAR_EMOL_ALTER.PNG)
+
+Caso seja necessário retornar os valores dos emolumentos no ato, basta clicar na opção atualizar.
+
+![atualizar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ISENTAR_EMOL_ATUALIZAR.PNG)
+
+Ao atualizar, os valores retornam para as colunas.
+
 
 ![desbloquear](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DESBLOQUEAR_CAMPOS.PNG)
 
