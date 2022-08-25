@@ -452,9 +452,15 @@ Ao clicar no botão *Reutilizar o último selo* o sistema vai solicitar o preenc
 
 ![validando](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/VALIDACAO_REUTILIZAR.PNG)
 
+![reutilizado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/REUTILIZADOS.PNG)
+
 ![reimprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
 
+Possível reimprimir o selo novamente, caso seja necessário.
+
 ![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG)
+
+Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão, o sistema vai direcionar para pasta do seu computador, onde você pode escolher o arquivo 
 
 ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EXIBIR_SELOS_NAO_UTILIZADOS.PNG)
 
