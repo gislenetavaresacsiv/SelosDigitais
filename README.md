@@ -433,6 +433,13 @@ Demonstra a quantidade de selos selecionada para envio ao tribunal.
 
 A manutenção de selos *(Menu Selos > Manutenção)* utilizados ou cancelados é o local onde temos uma visão detalhada dos dados contidos no selo digital.
 
+![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/PESQUISA_SELOS.PNG)
+
+A pesquisa pode ser realizada pelas seguintes opções:
+
+![pesquisa_opcoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/CAMPO_PESQUISA.png)
+
+
 ### 6. Modelos
 
 Os Modelos é utilizado para configurar os modelos de etiquetas que serão utilizados pelo cartório. *Esse módulo será mais utilizado pelo suporte técnico.*
