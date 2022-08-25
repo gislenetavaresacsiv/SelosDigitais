@@ -261,9 +261,8 @@ Para prática dos atos, o tribunal exige que seja informado pelo menos uma pesso
 
 Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/PESQUISAR.PNG), assim que o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG),mas caso o cliente não tenha cadastro no sistema, basta preencher o campo com os dados.
 
-![importarpessoas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_PESSOAS_PRIMEIRO_ATO.PNG)
+![importarpessoas](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_PESSOAS_PRIMEIRO_ATO.PNG) Possível importar as pessoas do primeiro ato.
 
-Possível importar as pessoas do primeiro ato.
 
 **c. Tipo doc.:** Pode-se selecionar o tipo de documento apresentado pelo cliente, conforme imagem a seguir:
 
