@@ -439,6 +439,26 @@ A pesquisa pode ser realizada pelas seguintes opções:
 
 ![pesquisa_opcoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/CAMPO_PESQUISA.png)
 
+Para verificar informações no selo, basta selecionar o selo e em seguida clicar em ![abrir_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_SELO.PNG)
+
+![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/ABRIR.PNG).
+
+
+![reutilizar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REUTILIZAR_ULTIMO_SELO.PNG)
+
+O botão *Reutilizar o último selo*  estorna um selo já utilizado à condição de não utilizado para que fique disponível no estoque, desde que não tenha sido enviado ao Tribunal. É um recurso muito útil, já que possibilita o não cancelamento do selo. Mas deve ser feito com muito cuidado para não invalidar atos praticados corretamente. A reutilização pode ser feita pelo selo pai, que irá estornar todos os selos vinculados a ele ou pelo selo filho, estornando somente o código ID do sistema.
+
+Ao clicar no botão *Reutilizar o último selo* o sistema vai solicitar o preenchimento do campo para validar a operação.
+
+![validando](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/VALIDACAO_REUTILIZAR.PNG)
+
+![reimprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
+
+![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG)
+
+![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EXIBIR_SELOS_NAO_UTILIZADOS.PNG)
+
+![]()
 
 ### 6. Modelos
 
