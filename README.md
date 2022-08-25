@@ -174,7 +174,17 @@ Vamos demonstrar um exemplo de selo com formatação, ao selecionar o botão ![c
 
 ![impresso_word](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_WORD.PNG)
 
-![]()
+![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_FERRRAMENTA_CAPTURA.PNG)
+
+**Abrir ferramenta de captura:** Ao selecionar, é apresentado a ferramenta de captura do windows.
+
+![ferramenta_captura](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABRIR_FERRAMENTA_CAPTURA.png)
+
+![qrcode](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/QRCODE.PNG)
+
+**Copiar QR Code:** Possível copiar o QR Code para que possa ser colado em outro lugar, nesse exemplo, utilizamos um documento word.
+
+![qrcode_colar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/QRCODE.PNG)
 
 
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
@@ -422,6 +432,13 @@ Demonstra a quantidade de selos selecionada para envio ao tribunal.
 ### 5. Manutenção
 
 A manutenção de selos *(Menu Selos > Manutenção)* utilizados ou cancelados é o local onde temos uma visão detalhada dos dados contidos no selo digital.
+
+![pesquisa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/PESQUISA_SELOS.PNG)
+
+A pesquisa pode ser realizada pelas seguintes opções:
+
+![pesquisa_opcoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/CAMPO_PESQUISA.png)
+
 
 ### 6. Modelos
 
