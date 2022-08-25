@@ -174,7 +174,17 @@ Vamos demonstrar um exemplo de selo com formatação, ao selecionar o botão ![c
 
 ![impresso_word](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/SELO_IMPRESSO_WORD.PNG)
 
-![]()
+![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_FERRRAMENTA_CAPTURA.PNG)
+
+Abrir ferramenta de captura, ao selecionar, é apresentado a ferramenta de captura do windows.
+
+![ferramenta_captura](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABRIR_FERRAMENTA_CAPTURA.png)
+
+![qrcode](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/QRCODE.PNG)
+
+Copiar QR Code, copia o QR Code para que possa ser colado em outro lugar, nesse exemplo, utilizamos um documento word.
+
+![qrcode_colar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/QRCODE.PNG)
 
 
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
