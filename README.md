@@ -156,7 +156,7 @@ Possível reemprimir o selo novamente, ao clicar na impressora, o sistema aprese
 
 ![reemprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/IMPRESSORA.png)
 
-Ao escolher a opção *SELO ELETRÔNICO EDITAL*, é possível colar o mesmo em um documento *word*, segue exemplo:
+Ao escolher a opção *SELO ELETRÔNICO EDITÁVEL*, é possível colar o mesmo em um documento *word*, segue exemplo:
 
 * Selo com formatação
 
