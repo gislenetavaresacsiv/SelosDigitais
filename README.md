@@ -439,9 +439,9 @@ A pesquisa pode ser realizada pelas seguintes opções:
 
 ![pesquisa_opcoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/CAMPO_PESQUISA.png)
 
-Para verificar informações no selo, basta selecionar o selo e em seguida clicar em ![abrir_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_SELO.PNG)
+Para verificar informações no selo, basta selecionar o selo e em seguida clicar em ![abrir_selo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_SELO.PNG).
 
-![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/ABRIR.PNG).
+![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/ABRIR.PNG)
 
 
 ![reutilizar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REUTILIZAR_ULTIMO_SELO.PNG)
@@ -460,7 +460,9 @@ Possível reimprimir o selo novamente, caso seja necessário.
 
 ![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG)
 
-Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão, o sistema vai direcionar para pasta do seu computador, onde você pode escolher o arquivo 
+Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão *Importar selos*, o sistema vai direcionar para pasta do seu computador, onde você pode escolher o arquivo que foi baixado do site do *Tribunal* para importar para o sistema. 
+
+![importado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/IMPORTACAO.PNG)
 
 ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EXIBIR_SELOS_NAO_UTILIZADOS.PNG)
 
