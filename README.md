@@ -46,7 +46,7 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 ![formaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/FORMA_EMISSAO.PNG) 
 
-Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados*, ao emitir um selo na tela de emissão de selos *(Menu Selos > Emissão)* com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre o selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados no item 3. Emissão).*
+Possível definir a forma padrão da emissão dos selos com código da tabela *115, 117 e 118*. **Ex.:** Ao marcar a opção *Vinculados*, ao emitir um selo na tela de emissão de selos *(Menu Selos > Emissão)* com códigos *115, 117 e 118* o sistema não permite a possibilidade de trocar a forma para *Desvinculados*, sempre serão emitidos os selos com vínculos entre os selos pai e filhos *(daremos mais detalhes sobre selos vinculados e desvinculados no item 3. Emissão).*
 
 ![selosparaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/AGRUPAR_SELOS_PARA_EMISSAO.PNG) Os selos serão agrupados na emissão.
 
@@ -189,7 +189,7 @@ Vamos demonstrar um exemplo de selo com formatação, ao selecionar o botão ![c
 
 ![retificar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/DEFINIR_SELO_RETIFICADO.PNG)
 
-Utilizado para desbloquear o campo selo retificado, caso seja necessário realizar retificação de atos.
+Utilizado para desbloquear o campo selo retificado, caso seja necessário realizar retificação de selos.
 
 
 ![desconto](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ALTERAR_VALOR_EMOL.PNG)
@@ -249,7 +249,7 @@ Em algumas situações é preciso gerar atos com data retroativa, clique no bot�
 
 ![replicar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REPLICAR_LINHA.PNG)
 
-Cada ato que compõe o selo deve ser inserido de forma individual, não havendo a possibilidade de definir a quantidade. O botão Replicar linha facilita processo o processo quando, por exemplo, é necessário informar 20 arquivamentos. Para isso, não há a necessidade de repetir a inserção de linhas por tantas vezes e sim, selecionar o ato desejado e clicar nesse botão. Uma solicitação de quantidades adicionais será exibida e os atos serão replicados.
+Cada ato que compõe o selo deve ser inserido de forma individual, não havendo a possibilidade de definir a quantidade. O botão Replicar linha facilita o processo quando, por exemplo, é necessário informar 20 arquivamentos. Para isso, não há a necessidade de repetir a inserção de linhas por tantas vezes e sim, selecionar o ato desejado e clicar nesse botão. Uma solicitação de quantidades adicionais será exibida e os atos serão replicados.
 
 
 
@@ -460,7 +460,7 @@ Possível reimprimir o selo novamente, caso seja necessário.
 
 ![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG)
 
-Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão *Importar selos*, o sistema vai direcionar para pasta do seu computador, onde você pode escolher o arquivo que foi baixado do site do *Tribunal* para importar para o sistema. 
+Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão *Importar selos*, o sistema vai direcionar para pasta do seu computador, onde você pode escolher o arquivo que foi baixado no site do *Tribunal* para importar para o sistema. 
 
 ![importado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/IMPORTACAO.PNG)
 
@@ -538,13 +538,13 @@ Selos digitais estoque é utilizado para demonstrar a quantidade de selos digita
 
 ![estoque](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/PRINCIPAL.PNG)
 
-**a. Tipo:** Possível selecionar o tipo de selo para ser apresentado no relatório. ![selos_tipo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TIPO.png)
+**a. Tipo:** Possível selecionar o tipo de selo para ser apresentado no relatório ![selos_tipo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TIPO.png).
 
 ![gratuito](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TIPO-GRATUITO.PNG)
 
 ![selos_gratuitos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/SELOS_GRATUITOS.PNG)
 
-**b. Lote:** Após selecionar o tipo de selo para ser apresentado no relatório, é possível selecionar o lote do selo. ![lote](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/LOTE.png)
+**b. Lote:** Após selecionar o tipo de selo para ser apresentado no relatório, é possível selecionar o lote do selo ![lote](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/LOTE.png).
 
 
 ![todos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TODOS.PNG)
