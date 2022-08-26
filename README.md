@@ -532,6 +532,18 @@ Com o checkbox selecionado, não será apresentado no relatório a pessoa que pr
 
 ![estoque](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/PRINCIPAL.PNG)
 
+**a. Tipo:** Possível selecionar o tipo de selo para ser apresentado no relatório. ![selos_tipo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TIPO.png)
+
+![gratuito](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TIPO-GRATUITO.PNG)
+
+![selos_gratuitos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/SELOS_GRATUITOS.PNG)
+
+**b. Lote:** Após selecionar o tipo de selo para ser apresentado no relatório, é possível selecionar o lote do selo. ![lote](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/LOTE.png)
+
+
+![todos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/TODOS.PNG)
+
+
 **R. Selos digitais utilizados:**
 
 ![utilizados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/PRINCIPAL.PNG)
