@@ -497,9 +497,13 @@ Para ter acesso aos relatórios *(Menu Selos > Relatórios)*.
 
 **R. Prestação de contas:**
 
+Prestação de contas é utilizado para confrontar os selos que foram enviados ao tribunal, auxiliando na validação dos selos enviados.
+
 ![prestacao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_PRESTACAO_CONTA/PRESTACAO.PNG)
 
-**R. Selos Digitais emitidos:**
+**R. Selos digitais emitidos:**
+
+Selos Digitais emitidos apresenta os selos digitais emitidos pelo cartório.
 
 ![emitidos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/PRINCIPAL.PNG)
 
@@ -528,7 +532,9 @@ Com o checkbox selecionado, não será apresentado no relatório a pessoa que pr
 
 
 
-**R. Selos Digitais estoque:**
+**R. Selos digitais estoque:**
+
+Selos digitais estoque é utilizado para demonstrar a quantidade de selos digitais em estoque na base de dados do cartório. 
 
 ![estoque](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/PRINCIPAL.PNG)
 
@@ -545,6 +551,8 @@ Com o checkbox selecionado, não será apresentado no relatório a pessoa que pr
 
 
 **R. Selos digitais utilizados:**
+
+Selos digitais utilizados tem o objetivo de mostrar todos os selos utilizados no cartório.
 
 ![utilizados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/PRINCIPAL.PNG)
 
