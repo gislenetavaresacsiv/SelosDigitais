@@ -503,6 +503,31 @@ Para ter acesso aos relatórios *(Menu Selos > Relatórios)*.
 
 ![emitidos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/PRINCIPAL.PNG)
 
+**a. Dt. Inicial:** Data inicial do dia, mas poderá ser alterada.
+
+**b. Dt. Final:** Data final do dia, mas poderá ser alterada.
+
+**c. Código do ato:** Utilizado para filtrar o código do ato para ser apresentando no relatório. **Ex.:** ![codigo_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CODIGO_ATO.PNG) retornar no relatório apenas atos com o código da tabela *115*.
+
+![todos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CHECKBOX_TODOS.PNG) Serão apresentados no relatório todos os atos da tabela de selos digitais emitidos.
+
+![selos_certidao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CHECKBOX_CERTIDAO.PNG) Serão apresentados no relatório atos de certidões de selos digitais emitidos.
+
+![selos_escrituras](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CHECKBOX_ESCRITURA.PNG) Serão apresentados no relatório atos de escrituras de selos digitais emitidos.
+
+![selos_procuracoes](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CHECKBOX_PROCURACAO.PNG) Serão emitidos no relatório atos de procurações de selos digitais emitidos.
+
+![gerado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/RELATORIO_GERADO.PNG)
+
+
+![nao_exibir_pessoa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/NAO_EXIBIR_PESSOA.PNG) Ao selecionar o checkbox, o relatório será apresentado como exemplo a seguir:
+
+![sem_pessoa](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/RELATORIO_GERADO_SEM_EXIBIR_PESSOA.PNG)
+
+Com o checkbox selecionado, não será apresentado no relatório a pessoa que praticou o ato.
+
+
+
 **R. Selos Digitais estoque:**
 
 ![estoque](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_ESTOQUE/PRINCIPAL.PNG)
