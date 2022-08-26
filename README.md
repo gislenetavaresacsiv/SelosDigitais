@@ -464,9 +464,12 @@ Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão
 
 ![importado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/IMPORTACAO.PNG)
 
+
 ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EXIBIR_SELOS_NAO_UTILIZADOS.PNG)
 
-![]()
+Ao marcar o checkbox *Exibir selos não utilizados* o sistema vai apresentar todos os selos que não foram utilizados ainda.
+
+![nao_utilizados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/SELOS_NAO_UTILIZADOS.PNG)
 
 ### 6. Modelos
 
