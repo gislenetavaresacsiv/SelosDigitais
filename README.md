@@ -548,7 +548,13 @@ Com o checkbox selecionado, não será apresentado no relatório a pessoa que pr
 
 ![utilizados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/PRINCIPAL.PNG)
 
+**a. Dt. Inicial:** Data inicial do dia, mas poderá ser alterada.
+
+**b. Dt. Final:** Data final do dia, mas poderá ser alterada.
+
+**c. Tipo:** Possível filtrar o tipo de selo para ser apresentado no relatório. ![tipo](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/TIPO.png) 
+
+**d. Código do ato:** Possível filtrar pelo código do ato para ser apresentado no relatório. ![codigo_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/CODIGO_ATO.PNG)
 
 
-
-![]()
+![gerado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_UTILIZADOS/GERADO.PNG)
