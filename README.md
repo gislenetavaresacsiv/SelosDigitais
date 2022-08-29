@@ -4,7 +4,7 @@
 
 O selo digital é a evolução do atual selo autoadesivo (físico). O selo digital é uma modernização dos serviços públicos prestados por delegação pelas serventias extrajudiciais que utilizam os selos físicos.
 
-O objetivo não será explicar o selo digital, mas sim demonstrar o processo de utilização do mesmo dentro do Acsiv.
+O objetivo não será explicar o selo digital, mas sim demonstrar o processo de utilização dele dentro do Acsiv.
 
 
 ### 1. Importação
@@ -12,9 +12,9 @@ O objetivo não será explicar o selo digital, mas sim demonstrar o processo de 
 
 O primeiro passo para iniciar o uso do selo digital é importar para a base de dados do sistema, os selos requisitados junto ao Tribunal de Justiça. Com o download feito no computador, vá em  *(Menu Selos > Manutenção > Importar selos)*  clique em ![importar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/IMPORTAR_SELOS.PNG), localize o arquivo e clique em OK. O sistema irá importar todos os selos solicitados. 
 
- Para aquisição dos Selos de Fiscalização Digital, o notárío e registrador,deverá acessar o Portal do Tribunal de Justiça do Estado do Pará — [TJPA](https://www.tjpa.jus.br/) no link próprio para acesso ao sistema web, disponibilizado para as serventias que,dentre outras funcionalidades, disponibilizará rotina para a solicitação.
+ Para aquisição dos Selos de Fiscalização Digital, o notárío e registrador, deverá acessar o Portal do Tribunal de Justiça do Estado do Pará — [TJPA](https://www.tjpa.jus.br/), no link próprio para acesso ao sistema web, disponibilizado para as serventias que, dentre outras funcionalidades, disponibilizará rotina para a solicitação.
  
- Para isso, você deve ter conectado e instalado no seu computador um **Certificado Digital**.
+ Para isso, você deve ter conectado e instalado no seu computador, um **Certificado Digital**.
 
 
 ### 2. Configurações
@@ -65,15 +65,15 @@ Ao finalizar a importação e configuração é importante configurar os atos ut
 
 ![ATO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/CONFIGURACAO_ATO.PNG)
 
-Os campos necessários para as configuração são: 
+Os campos necessários para as configurações são: 
 
-**a. Selegem física:** Basta marcar a opção *Desativada*.
+**a. Selagem física:** Basta marcar a opção *Desativada*.
 
 **b. Selo digital:** Selecione o modelo de etiqueta que será utilizado no ato. **Ex.:** Selo Eletrônico editável, esse modelo é possível copiar o selo e colar no documento word.
 
-**c. Exibir pré-definições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) no rodapé da página, o sistema apresentará o quadro a direita para preencher o selo que será utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
+**c. Exibir predefinições:** Ao clicar em ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/EXIBIR_PRE_DEFINICOES.PNG) no rodapé da página, o sistema apresentará o quadro a direita para preencher o selo que será utilizado no ato. *Nesse exemplo, foi utilizado o selo de escritura pública.*
 
-**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página,aba selo, campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Pública.
+**d. Abrir tabela:** Ao abrir a tabela utilizando o botão ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR.PNG), no rodapé da página, aba selo, campo *Tipo selo digital*, informe o tipo do selo. **Ex.:** Escritura Pública.
 
 ![tabela](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/TABELA.PNG)
 
@@ -97,7 +97,7 @@ Para adicionar os atos que irão compor, clique em ![inserir_linha](https://gith
 
 Após realizar a pesquisa do ato, basta clicar em ![selecionar](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SELECIONAR.PNG). 
 
-Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para localizar a tabela de emolumentos:
+Ao selecionar o ato, o sistema solicita o preenchimento do valor patrimonial para localizar a tabela de emolumentos:
 
 ![ABA_ATOS_VALOR_PATRIMONIAL](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_ATOS_VALOR_PATRIMONIAL.PNG)
 
@@ -108,7 +108,7 @@ Ao selecionar o ato, o sistema solicita o preechimento do valor patrimonial para
 
  * Vinculados: A emissão de selos vinculados é feita quando todos os atos são realizados para um único interessado. Neste caso, quando ele consultar o selo estará relacionado a todos os atos vinculados.
  
- * Desvinculados: A emissão de selos desvinculados geralmente é utilizado quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele solicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
+ * Desvinculados: A emissão de selos desvinculados geralmente é utilizada quando há um só ato por selo ou quando a pessoa que solicitou o ato é um despachante, ele solicitou vários atos para pessoas distintas, e não estão relacionados. Nesse caso, é necessário consultar cada selo individualmente. 
 
 **b. Dt. recolhimento:** Utilizado para colocar a data de recolhimento do ato.
 
@@ -152,7 +152,7 @@ Fecha o formulário, da mesma forma que clicar no [X] inferior da barra de menus
 
 ![impressora](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/REIMPRIMIR_SELOS_DIGITAIS.PNG)
 
-Possível reemprimir o selo novamente, ao clicar na impressora, o sistema apresentará os modelos de selos para que possa selecionar o desejado.
+Possível reimprimir o selo novamente, ao clicar na impressora, o sistema apresentará os modelos de selos para que possa selecionar o desejado.
 
 ![reemprimir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/IMPRESSORA.png)
 
@@ -176,7 +176,7 @@ Vamos demonstrar um exemplo de selo com formatação, ao selecionar o botão ![c
 
 ![abrir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_FERRRAMENTA_CAPTURA.PNG)
 
-**Abrir ferramenta de captura:** Ao selecionar, é apresentado a ferramenta de captura do windows.
+**Abrir ferramenta de captura:** Ao selecionar, é apresentado a ferramenta de captura do Windows.
 
 ![ferramenta_captura](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABRIR_FERRAMENTA_CAPTURA.png)
 
@@ -206,10 +206,10 @@ Basta apagar o valor do emolumento e inserir o valor que necessita.
 
 ![valor_emol_vazio](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ALTERAR_VALORES_EMOL_ZERADO.PNG)
 
-* FRJ: Utilizado para ajustar o valor da coluna frj, caso seja necessário.
+* FRJ: Utilizado para ajustar o valor da coluna FRJ, caso seja necessário.
 
 
-* FRC: Utilizado para ajustar o valor da coluna frc, caso seja necessário.
+* FRC: Utilizado para ajustar o valor da coluna FRC, caso seja necessário.
 
 * Transação: Utilizado para ajustar o valor da coluna transação, caso seja necessário.
 
@@ -298,7 +298,7 @@ Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.
 
 ![ABA_PESSOA_TIPO_DOCUMENTO](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/EMISSAO/ABA_PESSOA_TIPO_DOCUMENTO.png)
 
-**d. Documento:** Utilizado para preencher o tipo de documento apresentado pelo cliente. **Ex.:** Se o cliente apresentou o CPF *(Cadastro de Pessoa Física)*, você vai preencher o campo com o número do cpf apresentado.
+**d. Documento:** Utilizado para preencher o tipo de documento apresentado pelo cliente. **Ex.:** Se o cliente apresentou o CPF *(Cadastro de Pessoa Física)*, você vai preencher o campo com o número do CPF apresentado.
 
 **e. Participação:** Pode-se selecionar entre as participações da pessoa no ato, conforme imagem a seguir:
 
@@ -312,11 +312,11 @@ Basta informar o nome no campo conteúdo e clicar em ![pesquisa](https://github.
 
 * Atos códigos *(075 a 088) Escrituras com valor declarado*, é obrigatório informar o endereço do imóvel.
 
-* Atos códigos *(103 a 104) Escrituras sem valor decalrado, (115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação, (120 a 129) Procuração e subestabelecimento*, valor da transação não é obrigatório.
+* Atos códigos *(103 a 104) Escrituras sem valor declarado, (115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação, (120 a 129) Procuração e subestabelecimento*, valor da transação não é obrigatório.
 
 * Atos *(115) Reconhecimento, (116) Comunicação eletrônica de transferência de veículo, (117 a 119) Autenticação*, Livro; Folha/Ficha e Termo não são obrigatórios.
 
-* Todas regras acima aplicam-se aos atos retificadores.
+* Todas as regras acima aplicam-se aos atos retificadores.
 
 * Natureza do ato: 3000 a 3004; 3007 a 3012; 3015; 3017 a 3023 e 3026 a 3050, endereço do imóvel não é obrigatório.
 
@@ -365,7 +365,7 @@ Fecha a tela de envio de selos.
 
 ![xml](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/XML.PNG)
 
-Possível gerar um xml teste, esse recurso é mais utilizado pelo nosso suporte técnico.
+Possível gerar um XML teste, esse recurso é mais utilizado pelo nosso suporte técnico.
 
 ![arquivo_gerado](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/GERAR_ARQUIVO_TESTE.PNG)
 
@@ -384,7 +384,7 @@ Ao selecionar a opção *abrir arquivo*, é possível abrir o arquivo conforme i
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ABRIR_PASTA.PNG)
 
-Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o xml no seu computador. Nesse exemplo, o sistema salvou o arquivo *xml* no caminho C:\Acsiv\Gestor\Temp.
+Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi salvo o XML no seu computador. Nesse exemplo, o sistema salvou o arquivo *XML* no caminho C:\Acsiv\Gestor\Temp.
 
 ![abrir_pasta](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/ABRIR_PASTA.PNG)
 
@@ -394,11 +394,11 @@ Ao selecionar a opção *abrir pasta*, o sistema vai mostrar a pasta onde foi sa
 
 Por padrão todos os selos emitidos são selecionados, mas podemos refazer essa seleção caso seja necessário.
 
-*Desbloquear escolha de selos a enviar* é utilizado para desbloquear campos, utilizado mais pelo nosso suporte técnico, mas vamos demonstrar sua funcionalidade. Ao clicar no cadeado o sistema solicita uma contra-chave *(chave gerada pelo nosso suporte)*, conforme imagem a seguir:
+*Desbloquear escolha de selos a enviar* é utilizado para desbloquear campos, utilizado mais pelo nosso suporte técnico, mas vamos demonstrar sua funcionalidade. Ao clicar no cadeado o sistema solicita uma contra chave *(chave gerada pelo nosso suporte)*, conforme imagem a seguir:
 
 ![contra_chave](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/ENVIO/CONTRA_CHAVE.PNG)
 
-Ao validar a operação com a contra-chave, desbloqueia os campos para devidas alterações.
+Ao validar a operação com a contra chave, desbloqueia os campos para devidas alterações.
 
 Para ter acesso a coluna de seleção, basta clicar com botão direito do mouse em cima do checkbox conforme imagem abaixo:
 
@@ -467,7 +467,7 @@ Para importar selos, que foram baixados no site do tribunal. Ao clicar no botão
 
 ![exibir](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/EXIBIR_SELOS_NAO_UTILIZADOS.PNG)
 
-Ao marcar o checkbox *Exibir selos não utilizados* o sistema vai apresentar todos os selos que não foram utilizados ainda.
+Ao marcar o checkbox. *Exibir selos não utilizados* o sistema vai apresentar todos os selos que não foram utilizados ainda.
 
 ![nao_utilizados](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/MANUTENCAO/SELOS_NAO_UTILIZADOS.PNG)
 
@@ -487,11 +487,11 @@ Para ter acesso aos relatórios *(Menu Selos > Relatórios)*.
 
 
 
-![pdf](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_PDF.PNG) Possível salvar o relatório em arquivo pdf.
+![pdf](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_PDF.PNG) Possível salvar o relatório em arquivo PDF.
 
-![xls](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_XLS.PNG) Possibilidade de salvar o relatório em arquivo xls.
+![xls](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/SALVA_XLS.PNG) Possibilidade de salvar o relatório em arquivo XLS.
 
-![email](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIA_EMAIL.PNG) É possível enviar o relatório por e-mail, em formato pdf ou xls.
+![email](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/BOTOES/ENVIA_EMAIL.PNG) É possível enviar o relatório por e-mail, em formato PDF ou XLS.
 
 ![separador](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CHECKBOX/SEPARADOR_LINHAS.PNG) O separador de linhas, separa as linhas do relatório, organizando a visualização.
 
@@ -511,7 +511,7 @@ Selos Digitais emitidos apresenta os selos digitais emitidos pelo cartório.
 
 **b. Dt. Final:** Data final do dia, mas poderá ser alterada.
 
-**c. Código do ato:** Utilizado para filtrar o código do ato para ser apresentando no relatório. **Ex.:** ![codigo_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CODIGO_ATO.PNG) retornar no relatório apenas atos com o código da tabela *115*.
+**c. Código do ato:** Utilizado para filtrar o código do ato para ser apresentado no relatório. **Ex.:** ![codigo_ato](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CODIGO_ATO.PNG) retornar no relatório apenas atos com o código da tabela *115*.
 
 ![todos](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/RELATORIOS/R_SELOS_DIGITAIS_EMITIDOS/CHECKBOX_TODOS.PNG) Serão apresentados no relatório todos os atos da tabela de selos digitais emitidos.
 
