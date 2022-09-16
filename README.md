@@ -33,15 +33,15 @@ Ao abrir o *XMl* será apresentado todas as informações do arquivo, mas para c
 
 
 
-**Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
+**a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
 
-**Cartório:** Utilizado para colocar o nome do cartório.
+**b. Cartório:** Utilizado para colocar o nome do cartório.
 
-**Cód. comarca:** Código da comarca, pode ser encontrado no *XML*.
+**c. Cód. comarca:** Código da comarca, pode ser encontrado no *XML*.
 
-**Cód. cartório:** Código do cartório, pode ser encontrado no *XML*.
+**d. Cód. cartório:** Código do cartório, pode ser encontrado no *XML*.
 
-**Versão tabela:** Campo utilizado para colocar a versão da tabela, caso haja necessidade.
+**e. Versão tabela:** Campo utilizado para colocar a versão da tabela, caso haja necessidade.
 
 
 ![formaemissao](https://github.com/gislenetavaresacsiv/SelosDigitais/blob/main/IMAGENS/CONFIGURACOES/FORMA_EMISSAO.PNG) 
